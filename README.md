@@ -8,7 +8,7 @@ O objetivo deste exercício é:
 
 1. Criar uma função que analisa uma lista de números inteiros.
 2. Criar um arquivo separado para testar a função.
-3. Elaborar um README.md explicando o funcionamento do projeto.
+
 
 ## ✅ Lista fornecida
 
