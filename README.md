@@ -15,4 +15,4 @@ O objetivo deste exercício é:
 A lista de números a ser analisada é a seguinte:
 
 ```python
-numeros = [10, 23, 5, 8, 12, 33, 42, 7, 19, 28, 3, 16, 9, 50, 21]
+numeros = [7, 22, 9, 10, 87, 12]
